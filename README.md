@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Bhanu Prakash, a Salesforce Solution Architect with 6X Certified freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Bhanu Prakash, a Salesforce Solution Architect with 10X Certified freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
 - 🔭 I’m currently working on [Anuhya Digital](https://anuhyadigital.com/)  
