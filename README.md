@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Bhanu Prakash, a Salesforce Solution Architect with 10X Certified freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Bhanu Prakash, a Salesforce Architect with 16X Certified 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m currently working on [Anuhya Digital](https://anuhyadigital.com/)  
+- 🔭 I’m currently working on TekSystems  
   
 
 - 🌱 I’m currently learning new Salesforce cloud capabilities and SEO  
