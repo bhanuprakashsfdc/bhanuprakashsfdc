@@ -6,13 +6,13 @@
 ### <div align="center">I'm Bhanu Prakash, a Salesforce Architect with 16X Certified 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m currently working on TekSystems  
+- 🔭 I'm currently working on TekSystems  
   
 
-- 🌱 I’m currently learning new Salesforce cloud capabilities and SEO  
+- 🌱 I'm currently learning Salesforce Agentforce, AI tools & Agentic Automation  
   
 
-- ❓ Ask me about anything related to Salesforce and Web development  
+- ❓ Ask me about anything related to Salesforce, Agentforce & AI-powered development  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -87,6 +87,81 @@
 
 <br/>  
 
+## 🤖 Salesforce AI & Agentforce  
+<div align="center">  
+
+<a href="https://www.salesforce.com/agentforce/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Agentforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Agentforce" height="35" />
+</a>
+<a href="https://www.salesforce.com/products/einstein/overview/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Einstein%20AI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Einstein AI" height="35" />
+</a>
+<a href="https://www.salesforce.com/products/einstein/copilot/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Einstein%20Copilot-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Einstein Copilot" height="35" />
+</a>
+<a href="https://www.salesforce.com/products/data-cloud/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Data%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Data Cloud" height="35" />
+</a>
+<a href="https://developer.salesforce.com/docs/einstein/genai/guide/prompt-builder.html" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Prompt%20Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Prompt Builder" height="35" />
+</a>
+<a href="https://developer.salesforce.com/docs/einstein/genai/guide/agent-builder.html" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Agent%20Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Agent Builder" height="35" />
+</a>
+<a href="https://www.salesforce.com/products/einstein/trust-layer/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Einstein%20Trust%20Layer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Einstein Trust Layer" height="35" />
+</a>
+<a href="https://www.salesforce.com/mulesoft/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/MuleSoft-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="MuleSoft" height="35" />
+</a>
+
+</div>
+
+<br/>  
+
+## 🧠 AI Tools & Agentic Automation  
+<div align="center">  
+
+<a href="https://claude.ai/code" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" height="35" />
+</a>
+<a href="https://www.anthropic.com/claude" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Claude%20AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" height="35" />
+</a>
+<a href="https://github.com/openclaw" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/OpenClaw-FF6B35?style=for-the-badge&logo=openai&logoColor=white" alt="OpenClaw" height="35" />
+</a>
+<a href="https://openai.com/chatgpt" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="35" />
+</a>
+<a href="https://gemini.google.com/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" height="35" />
+</a>
+<a href="https://cursor.sh/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI" height="35" />
+</a>
+<a href="https://n8n.io/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N" height="35" />
+</a>
+<a href="https://www.crewai.com/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logo=python&logoColor=white" alt="CrewAI" height="35" />
+</a>
+<a href="https://lovable.dev/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Lovable.dev-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Lovable.dev" height="35" />
+</a>
+<a href="https://modelcontextprotocol.io/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/MCP%20Protocol-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP Protocol" height="35" />
+</a>
+<a href="https://ollama.ai/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white" alt="Ollama" height="35" />
+</a>
+<a href="https://copado.com/" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/Copado%20CI%2FCD-0070D2?style=for-the-badge&logo=salesforce&logoColor=white" alt="Copado" height="35" />
+</a>
+
+</div>
+
+<br/>  
 
 ## Connect with me  
 <div align="center">
